@@ -1,0 +1,12 @@
+*.bak
+*.tmp
+*.log
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# development only: not part of the addon
+.luacheckrc
+Media/Modern/README.txt

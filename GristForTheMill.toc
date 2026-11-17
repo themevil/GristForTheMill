@@ -1,0 +1,18 @@
+## Interface: 16001
+## Title: Grist for the Mill
+## Notes: Reagents, recipes and farming goals for your professions
+## IconTexture: Interface\Icons\INV_Misc_Bag_10
+## Version: 0.1.0
+## SavedVariables: HelperDB
+## OptionalDeps: QuestieDB, Questie, TomTom
+
+Ext\Recipes.lua
+Ext\MapOverlays.lua
+Settings.lua
+Layout.lua
+Info.lua
+Map.lua
+Farm.lua
+Bags.lua
+Travel.lua
+Helper.lua
